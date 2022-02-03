@@ -1,0 +1,20 @@
+---
+title: "Dawn Parry"
+date: "1/27/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Education
+- Cornell University
+- University of Rhode Island
+
+
+## Employment
+
+2020-2022 &nbsp;&nbsp;&nbsp; Teaching Assistant  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University, Ithaca NY – Introductory Field Biology
+(Fall Semesters), Introduction to Environmental Conservation (Spring Semesters)
