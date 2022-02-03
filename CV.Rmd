@@ -8,13 +8,38 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Education
+#### Education
 - Cornell University
 - University of Rhode Island
 
+<br>  
 
-## Employment
+#### Employment
 
-2020-2022 &nbsp;&nbsp;&nbsp; Teaching Assistant  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; University, Ithaca NY – Introductory Field Biology
-(Fall Semesters), Introduction to Environmental Conservation (Spring Semesters)
+2020-2022 &emsp; Teaching Assistant, Cornell University, Ithaca NY – Introductory Field Biology    
+&emsp; &emsp; &emsp; &emsp; &emsp; (Fall Semesters), Introduction to Environmental Conservation (Spring Semesters)  
+<br>
+2018 &emsp; &emsp; &emsp; Assistant Sampler, URI and Commercial Fisheries Research Foundation Southern  
+&emsp; &emsp; &emsp; &emsp; &emsp; New England Cooperative Ventless Trap Survey, Point Judith, RI - Assessing  
+&emsp; &emsp; &emsp; &emsp; &emsp; seasonal distribution and habitat use patterns of American lobster, Jonah crabs, and  
+&emsp; &emsp; &emsp; &emsp; &emsp; bycatch species in the Cox’s Ledge Wind Energy Area; Sampling lobster pots and  
+&emsp; &emsp; &emsp; &emsp; &emsp; recording species presence data; Tagging lobsters with T-bar and acoustic tags to  
+&emsp; &emsp; &emsp; &emsp; &emsp; track individuals
+
+<br>
+2017-2019 &emsp; NOAA Ernest F. Hollings Intern, NOAA NMFS NEFSC Passive Acoustics Group,  
+&emsp; &emsp; &emsp; &emsp; &emsp; Woods Hole, MA; Dr. Sofie Van Parijs and Genevieve Davis - “Tracking sei  
+&emsp; &emsp; &emsp; &emsp; &emsp; whales (Balaenoptera borealis) in the Western North Atlantic Using Passive  
+&emsp; &emsp; &emsp; &emsp; &emsp; Acoustics.” Analyzed marine mammal distribution using passive acoustic  
+&emsp; &emsp; &emsp; &emsp; &emsp; monitoring with a Low Frequency Detection and Classification System (LFDCS);  
+&emsp; &emsp; &emsp; &emsp; &emsp; Honorable Mention, American Cetacean Society 16th International Conference
+
+<br>  
+
+#### Presentations (presenter in bold)
+- **Parry, D.M.** (2021). “Marine Mammals and Anthropogenic Noise in the Gulf of Mexico.”  
+Zoom presentation to MATES oceanography class to present my research and inform  
+students of future opportunities
+- **Parry, D.M. (2021).** “Anthropogenic Noise and Sperm Whale Presence in the Gulf of  
+Mexico.” Cornell University Department of Natural Resources and the Environment  
+Graduate Student Association Research Symposium, Ithaca, NY.
