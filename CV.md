@@ -17,8 +17,8 @@ Introductory Field Biology
 (Spring Semesters)  
 <br> 2018       Assistant Sampler, URI and Commercial Fisheries Research
 Foundation Southern  
-          New England Cooperative Ventless Trap Survey, Point Judith, RI
-- Assessing  
+          New England Cooperative Ventless Trap Survey, Point Judith,
+RI: Assessing  
           seasonal distribution and habitat use patterns of American
 lobster, Jonah crabs, and  
           bycatch species in the Cox’s Ledge Wind Energy Area; Sampling
@@ -49,7 +49,7 @@ International Conference
     Zoom presentation to MATES oceanography class to present my research
     and inform  
     students of future opportunities
--   **Parry, D.M. (2021).** “Anthropogenic Noise and Sperm Whale
+-   **Parry, D.M.** (2021). “Anthropogenic Noise and Sperm Whale
     Presence in the Gulf of  
     Mexico.” Cornell University Department of Natural Resources and the
     Environment  
